@@ -1,10 +1,8 @@
-#include<iostream>
-#include<string.h>
-#include<stdlib.h>
-#include<stdio.h>
-#include<fstream>
+#include<bits/stdc++.h>
 
 using namespace std;
+
+
 
 struct Node
 {
